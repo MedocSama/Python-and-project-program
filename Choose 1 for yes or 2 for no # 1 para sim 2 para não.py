@@ -5,4 +5,4 @@ else:
     if(acao==2):
      print("você disse que não!")
     else:
-     print("O número dgitado não é '1' e nem '2' por favor verifique corretamente!")
+     print("O número digitado não é '1' e nem '2' por favor verifique corretamente!")
